@@ -301,6 +301,20 @@ flex-grow: 1;
 width: 100%;
 }
 
+.content > p{
+    font-size: 1.2rem;
+    line-height: 1.4em;
+}
+
+.penanganan > ol > li{
+    font-size: 1.2rem;
+}
+
+.txt{
+    font-size: 1.2em;
+    line-height: 25px;
+}
+
     .container-pencegahan{
         flex-direction: column;
 
