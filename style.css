@@ -150,6 +150,7 @@ height: auto;
 .pencegahan{
 margin-top: 120px;
     background-color: var(--primary-color);
+    padding-top: 34px;
 }
 .container-pencegahan{
     display: flex;
