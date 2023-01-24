@@ -301,6 +301,15 @@ flex-grow: 1;
 width: 100%;
 }
 
+.bingung{
+    font-size: 1rem;
+}
+
+.collapsible{
+    font-size: 1rem;
+
+}
+
 .img-pengertian{
     width: 45%;
     height: 45%;
