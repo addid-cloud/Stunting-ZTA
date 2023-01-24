@@ -288,6 +288,13 @@ flex-grow: 1;
     padding-bottom: 3%;
     font-size: large;
     font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-left: auto;
+}
+
+.footer > ol > li{
+    
+    list-style: none;
   }
 
   .penanganan{
