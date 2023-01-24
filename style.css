@@ -26,7 +26,7 @@ body::-webkit-scrollbar-thumb{
 
 body{
     overflow-x: hidden;
-    background-color: #eaeaea;
+    background-color: #6a9dc7;
 
 }
 
@@ -81,7 +81,7 @@ height: auto;
 
 #wave{
     margin-bottom: 0;
-    background-color: #eaeaea;
+    background-color: #6a9dc7;
     z-index: 0;
 
 }
