@@ -301,6 +301,16 @@ flex-grow: 1;
 width: 100%;
 }
 
+.img-pengertian{
+    width: 45%;
+    height: 45%;
+}
+
+.gambar{
+width:210px ;
+height: 124px;
+}
+
 .content > p{
     font-size: 1.2rem;
     line-height: 1.4em;
